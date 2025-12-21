@@ -41,7 +41,7 @@
 
 💬 Ask me about **Data Analysis/Engineering**
 
-🎓 Certifications: **AWS practitioner , HackerRank SQL Advanced**
+🎓 Certifications: **AWS practitioner , HackerRank SQL Advanced, Onetrust Consent and Preferences**
 
 
 📦 **20** repositories | ⭐ **7** stars | 👥 **3** followers
