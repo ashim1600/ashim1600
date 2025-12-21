@@ -213,7 +213,7 @@
 
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
-| 📅 3+ Years on GitHub | ✅ Unlocked |
+| 📅 7+ Years on GitHub | ✅ Unlocked |
 | 💻 HTML Expert | ✅ Unlocked |
 
 </div>
