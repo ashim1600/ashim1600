@@ -12,8 +12,8 @@
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Sr.-ff79c6?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/3+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/Focus-Data Analyst/Engineering-ff79c6?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/7+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/>
   <img src="https://img.shields.io/badge/7-Stars_Earned-ff79c6?style=for-the-badge" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=ashim1600&style=for-the-badge&color=ff79c6" alt="views"/>
 </p>
