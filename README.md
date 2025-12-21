@@ -37,8 +37,6 @@
 
 💼 **7**
 
-🔭 Currently working on **[ATS_Resume_Analyzer](https://github.com/ashim1600/ATS_Resume_Analyzer)**
-
 🌱 Currently learning **DBT, Airflow**
 
 💬 Ask me about **Data Analysis/Engineering**
