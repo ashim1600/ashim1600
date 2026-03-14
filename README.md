@@ -1,15 +1,22 @@
-# Project Title
+# Animated Glass Fish Header
 
-## Animated Glass Fish Design
+<div style="background:rgba(255,255,255,0.2); border-radius: 20px; backdrop-filter: blur(10px); padding: 20px;">
+  <h1 style="text-align: center;">
+    <img src="https://example.com/animated-glass-fish.gif" alt="Glass Fish" style="width:50%;">
+  </h1>
+</div>
 
-This project features an elegant animated glass fish design inspired by Apple aesthetics. It incorporates:
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- [Frameworks/Libraries as applicable]
 
-- **Smooth Gradients:** The design utilizes soft color transitions to create a visually appealing effect.
-- **Glassmorphism Effects:** Transparent layers with blurring effects give a sense of depth and modernity.
-- **Professional Layout:** The composition is thoughtfully designed for a clean and professional look.
+## Featured Projects
+1. Project One
+   - Description of project one.
+2. Project Two
+   - Description of project two.
 
-## Preview
-
-![Glass Fish Preview](path_to_preview_image)
-
-Feel free to explore the source code for further customization and enhancements!
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashim1600&show_icons=true&theme=radical)
